@@ -1,4 +1,4 @@
-# gpds-uiii
+# gpds-uiii v0.1
 
 ## Project setup
 ```
